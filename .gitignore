@@ -1,0 +1,30 @@
+# Ignore simulation output files
+*.vcd
+*.lxt
+*.gtkw
+*.vvp
+*.out
+*.log
+
+# Vivado/Quartus/ModelSim output folders
+sim/
+work/
+output/
+*.wlf
+*.pb
+*.jou
+*.bit
+*.xdc
+
+# Temporary files
+*~
+*.bak
+*.swp
+*.tmp
+
+# Ignore generated waveform images (optional)
+*.png
+*.jpg
+
+Add Verilog .gitignore for simulation/temp files
+
