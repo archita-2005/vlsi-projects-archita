@@ -6,7 +6,7 @@ This repo includes projects in **Digital Logic, CMOS Design, Verilog RTL, and La
 
 ---
 
-## 📁 Folder Structure
+## 📁 Folder Structure 
 
 | Folder             | Description |
 |--------------------|-------------|
