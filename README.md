@@ -1,6 +1,6 @@
 # VLSI Projects Portfolio – Archita Roy
 
-📘 A curated collection of my Digital Logic, CMOS, and Verilog projects built for GATE 2026 prep and core electronics internships.
+📘 A curated collection of my Digital Logic, CMOS, and Verilog projects built for core electronics internships.
 
 ## 📁 Folder Structure
 
@@ -12,7 +12,7 @@
 
 - Logisim
 - Microwind / Electric VLSI / Cadence
-- Verilog (Vivado, GTKWave)
+- Verilog (Vivado)
 - GitHub
 
 ## 🌱 Status
