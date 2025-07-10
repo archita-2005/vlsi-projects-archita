@@ -48,7 +48,7 @@ Feel free to reach out for collaboration, suggestions, or doubts:
 
 **Archita Roy**  
 ECE Undergraduate @ NIT Silchar  
-[LinkedIn](https://linkedin.com/archita-royy) | [GitHub](https://github.com/archita-2005)
+[LinkedIn](https://www.linkedin.com/in/archita-royy/) | [GitHub](https://github.com/archita-2005)
 
 ---
 
