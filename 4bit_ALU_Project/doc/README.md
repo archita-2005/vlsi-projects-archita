@@ -82,7 +82,7 @@ The ALU was tested using `alu_tb.v` in ModelSim. All operations were verified us
 
 ---
 
-📄 [Download Full Report](report.pdf)
+📄 [Download Full Report](4bit_ALU_Project/doc/report.pdf)
 
 ## 👩‍💻 Author
 
