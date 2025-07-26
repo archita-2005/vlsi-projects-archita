@@ -28,13 +28,21 @@ Simulated using ModelSim with `alu_tb.v` testbench. Results verified using wavef
 ## 📂 File Structure
 
 4bit_ALU_Project/
+
 ├── src/
+
 │   ├── alu.v         # Main ALU logic
+
 │   └── alu_tb.v      # Testbench
+
 ├── sim/
+
 ├── doc/
+
 │   ├── README.md     # This file
+
 │   ├── report.pdf    # Full write-up (to be added)
+
 │   └── block_diagram.png # ALU diagram (to be added)
 
 ## 📌 How to Run
