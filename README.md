@@ -18,7 +18,7 @@ This repo includes projects in **Digital Logic, CMOS Design, Verilog RTL, and La
 
 - [Logisim](http://www.cburch.com/logisim/) – Digital logic simulation
 - [Electric VLSI](https://github.com/StaticVox/Electric-VLSI) / Microwind – CMOS layout
-- [Vivado](https://www.xilinx.com/products/design-tools/vivado.html) / [GTKWave](http://gtkwave.sourceforge.net/) – Verilog simulation
+- [ModelSim – Intel FPGA Edition (for Verilog simulation)](https://fpgasoftware.intel.com) / [GTKWave](http://gtkwave.sourceforge.net/) – Verilog simulation
 - GitHub – Version control and project portfolio
 
 ---
