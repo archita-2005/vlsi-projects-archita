@@ -10,7 +10,7 @@ This repo includes projects in **Digital Logic, CMOS Design, Verilog RTL, and La
 
 | Folder             | Description |
 |--------------------|-------------|
-| `4bit_ALU_Project`| (Verilog) 4bit_ALU_Project/doc/README.md |
+| `4bit_ALU_Project`| A Verilog-based 4-bit ALU with testbench and ModelSim simulation |
 
 ---
 
