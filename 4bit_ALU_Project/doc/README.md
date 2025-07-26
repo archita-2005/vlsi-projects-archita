@@ -2,6 +2,11 @@
 
 This project implements a 4-bit Arithmetic Logic Unit using Verilog HDL. It performs 8 basic arithmetic and logical operations.
 
+### 🛠️ Tools Used
+
+- [Intel Quartus Prime Lite Edition](https://www.intel.com/content/www/us/en/software-kit/748688/intel-quartus-prime-lite-edition-design-software.html) – used for writing and compiling Verilog
+- [ModelSim – Intel FPGA Edition](https://fpgasoftware.intel.com) – used for functional simulation and waveform analysis
+
 ## 🚀 Features
 
 - 4-bit inputs A and B
