@@ -63,7 +63,7 @@ The ALU was tested using `alu_tb.v` in ModelSim. All operations were verified us
 
 │ ├── README.md # This file
 
-│ ├── report.pdf # Full write-up (optional)
+│ ├── report.pdf # Full write-up 
 
 │ └── block_diagram.png # ALU architecture diagram
 
@@ -81,6 +81,8 @@ The ALU was tested using `alu_tb.v` in ModelSim. All operations were verified us
    - Check `output.txt` or console for results
 
 ---
+
+[📄 Download Full Report](4bit_ALU_Project/doc/report.pdf)
 
 ## 👩‍💻 Author
 
