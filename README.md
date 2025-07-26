@@ -10,9 +10,7 @@ This repo includes projects in **Digital Logic, CMOS Design, Verilog RTL, and La
 
 | Folder             | Description |
 |--------------------|-------------|
-| `Digital_Logic/`   | Logisim-based combinational and sequential circuits (4-bit Adder, Counter, FSMs) |
-| `CMOS_Layouts/`    | Stick diagrams and layout designs using CMOS principles (Inverter, NAND, Shift Register) |
-| `Verilog_Projects/`| RTL projects with Verilog, including testbenches, waveforms, and custom layout optimizations |
+| `4bit_ALU_Project`| (Verilog) 4bit_ALU_Project/doc/README.md |
 
 ---
 
