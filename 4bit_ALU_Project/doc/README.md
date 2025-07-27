@@ -16,6 +16,15 @@
 
 ---
 
+### 🧪 Simulation Output
+
+Due to setup limitations, the waveform simulation could not be visualized directly on my local system. However, all operations were verified using console outputs in ModelSim.
+
+> 📄 A sample waveform is included below to illustrate expected behavior.
+
+![Expected Waveform](../doc/sample_waveform.png)
+---
+
 ## 👩‍💻 Author
 
 Made with ❤️ by **Archita Roy**  
