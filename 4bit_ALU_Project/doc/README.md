@@ -84,7 +84,7 @@ Due to setup limitations, the waveform simulation could not be visualized direct
 
 > 📄 A sample waveform is included below to illustrate expected behavior.
 
-[Expected Waveform](../doc/sample_waveform.png)
+[Expected Waveform](https://github.com/archita-2005/vlsi-projects-archita/blob/main/4bit_ALU_Project/sim/waveform_alu.png)
 
 ---
 
