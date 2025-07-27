@@ -22,7 +22,8 @@ Due to setup limitations, the waveform simulation could not be visualized direct
 
 > 📄 A sample waveform is included below to illustrate expected behavior.
 
-![Expected Waveform](../doc/sample_waveform.png)
+[Expected Waveform](../doc/sample_waveform.png)
+
 ---
 
 ## 👩‍💻 Author
