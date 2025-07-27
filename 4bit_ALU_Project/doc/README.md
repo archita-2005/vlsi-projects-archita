@@ -1,3 +1,65 @@
+# 🔢 4-Bit ALU in Verilog
+
+This project implements a 4-bit Arithmetic Logic Unit (ALU) using Verilog HDL. It performs 8 basic arithmetic and logical operations and simulates behavior using ModelSim.
+
+---
+
+## 🛠️ Tools Used
+
+- [Intel Quartus Prime Lite Edition](https://www.intel.com/content/www/us/en/software-kit/748688/intel-quartus-prime-lite-edition-design-software.html) – Writing, compiling Verilog
+- [ModelSim – Intel FPGA Edition](https://fpgasoftware.intel.com) – Functional simulation and waveform analysis
+
+---
+
+## 🚀 Features
+
+- 4-bit operands A and B
+- 3-bit select input for operation selection
+- Output: 4-bit result, carry-out, and zero flag
+
+---
+
+## ⚙️ Operations Supported
+
+| Select | Operation     | Description      |
+|--------|---------------|------------------|
+| 000    | ADD           | A + B            |
+| 001    | SUB           | A - B            |
+| 010    | AND           | A & B            |
+| 011    | OR            | A \| B           |
+| 100    | XOR           | A ^ B            |
+| 101    | NOT A         | ~A               |
+| 110    | INCREMENT     | A + 1            |
+| 111    | DECREMENT     | A - 1            |
+
+---
+
+## 📈 Simulation
+
+Simulated using ModelSim with `alu_tb.v` testbench. Outputs verified using waveform and console logs.
+
+---
+
+## 📂 File Structure
+
+4bit_ALU_Project/
+├── src/
+
+│ ├── alu.v # ALU module
+
+│ └── alu_tb.v # Testbench
+
+├── sim/
+
+│ └── output.txt # Console output
+
+├── doc/
+
+│ ├── README.md # This file
+
+│ ├── report.pdf # Full project report
+
+│ └── block_diagram.png # ALU architecture diagram
 
 ---
 
