@@ -4,8 +4,7 @@
 ## 📄 Documentation
 
 - 📘 [Download PDF Report](https://github.com/archita-2005/vlsi-projects-archita/blob/main/4bit_ALU_Project/doc/Alu_Project_Report.pdf)
-- 🧩 [View Block Diagram](https://github.com/archita-2005/vlsi-projects/blob/main/4bit_ALU_Project/doc/block_diagram.png)
-
+- 🧩 [View Block Diagram](https://github.com/archita-2005/vlsi-projects-archita/blob/main/4bit_ALU_Project/doc/4bitALU_BD.png)
 ---
 
 ## ✅ How to Run
